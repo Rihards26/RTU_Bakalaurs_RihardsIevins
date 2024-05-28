@@ -20,7 +20,7 @@ Direktorijas tiek veidotas ar mērķi - nošķirt problēmgadījumus. Tātad kat
 
 ## Hipersaites uz sarakstēm ar radošo mākslīgo intelektu
 
-Tā kā ir iespēja dalīties ar saraksti, kas ir veikta ar radošā mākslīgā intelekta rīkiem - ChatGPT un Google Gemini, tad zemāk ir pieejamas hipersaites uz sarunām ar radošā mākslīgā intelekta sarnām, kas tika veiktas, lai pildītu uzdevumus:
+Tā kā ir iespēja dalīties ar saraksti, kas ir veikta ar radošā mākslīgā intelekta rīkiem - ChatGPT un Google Gemini, tad zemāk ir pieejamas hipersaites uz sarunām ar radošā mākslīgā intelekta sarnām, kas tika veiktas, lai pildītu uzdevumus. Visos rīkos veidotās sarunas ir pieejamas dokumentācijas formātā 'rmi_sarakstes' direktorijā.
 - [Koda ģenerācija - ChatGPT 3.5](https://chat.openai.com/share/43a2ab14-62db-432e-b2b6-59637d1bfc1a)
 - [Koda ģenerācija - ChatGPT4](https://chat.openai.com/share/9684d78e-e991-4184-9184-307b7516919e)
 - [Koda ģenerācija - Google Gemini](https://g.co/gemini/share/a171333b9504)
