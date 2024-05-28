@@ -15,7 +15,7 @@ Repozitorijā ir pieejamas vairākas direktorijas jeb mapes:
 
 Direktorijas tiek veidotas ar mērķi - nošķirt problēmgadījumus. Tātad katrā no šīm direktorijām ir pieejami faili, kas ir saistīti ar tikai minēto problēmgadījumu. Repozitorija direktorijās ir pieejami šādi faili:
  - Problēmgadījumu direktorijās (koda_generacija, kludu_atrasana, atkludosana) katram izmantotajam radošā mākslīgā intelekta rīkam tiek veidots atšķirīgs fails, kurā tiek piefiksētas iegūtās atbildes un tiek uzrādīts vai iegūtais rezultāts funkcionē (šis attiecas uz koda ģenerēšanas un atkļūdošanas direktorijām)
- - Radošā mākslīgā intelekta lietotņu atbilžu direktorija - šajā direktorijā tiek saglabāta saruna ar radošā mākslīgā intelekta rīku 'Meta AI', jo šim rīkam nav iespēja dalīties ar saraksti, kā tas bija iespējams pārējiem rīkiem.
+ - Radošā mākslīgā intelekta lietotņu atbilžu direktorija - šajā direktorijā tiek saglabāta saruna ar radošā mākslīgā intelekta rīku 'Meta AI', jo šim rīkam nav iespēja dalīties ar saraksti, kā tas bija iespējams pārējiem rīkiem. Ir pievienotas arī pārējo rīku sarunas, gadījumā, ja hipersaites pārstāj darboties.
  - Galvenajā mapē ir arī pievienots fails - Uzdevumu instrukcijas (Uzdevumu_instrukcija.md). Šajā failā ir redzami visi uzdevumi, kas tika izmantoti un hipersaites uz tiem. Kā arī ir ir pievienots fails 'README.md', kura saturs ir redzams 'GitHub'.
 
 ## Hipersaites uz sarakstēm ar radošo mākslīgo intelektu
